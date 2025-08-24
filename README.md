@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 <div align="center">🔹 KT 디지털인재 장학생</div>
 
 <!-- Activities -->
-<h2 align="center">📌 Activities</h2>
+<h2 align="center">&nbsp;&nbsp;📌 Activities</h2>
 <div align="center">&nbsp;&nbsp;🔹 이화여대 SW 창업 동아리 UNIS 4기</div>
 <div align="center">&nbsp;&nbsp;🔹 이화여대 소프트웨어봉사단 이소지기 11기</div>
 
 <!-- DEV's log -->
-<h2 align="center">📝 DEV's log</h2>
+<h2 align="center">&nbsp;&nbsp;📝 DEV's log</h2>
 
 <div align="center">
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 </div>
 <!-- Certifications 섹션 -->
-<h2 align="center">📜 Certifications</h2>
+<h2 align="center">&nbsp;&nbsp;📜 Certifications</h2>
 
 <div align="center">
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 </div>
 <!-- Contact 섹션 -->
-<h2 align="center">📬 Contact</h2>
+<h2 align="center">&nbsp;&nbsp;📬 Contact</h2>
 
 <div align="center">
 
