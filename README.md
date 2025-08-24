@@ -33,12 +33,36 @@ Here are some ideas to get you started:
 <div align="center">&nbsp;&nbsp;🔹 이화여대 SW 창업 동아리 UNIS 4기</div>
 <div align="center">&nbsp;&nbsp;🔹 이화여대 소프트웨어봉사단 이소지기 11기</div>
 
+
 <!-- DEV's log -->
 <h2 align="center">&nbsp;&nbsp;📝 DEV's log</h2>
 
 <div align="center">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Tistory Badge](https://img.shields.io/badge/Tistory-Blog-FF5A5F?style=flat-square&logo=tistory&logoColor=white)](https://wisekhy.tistory.com/)
+<!-- Skills 섹션 -->
+<h2 align="center">⚒️ Skills</h2>
+
+<div align="center">
+
+<!-- Languages -->
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<!-- Backend -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
+<!-- Database -->
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+<!-- Tools -->
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
 
 </div>
 <!-- Certifications 섹션 -->
