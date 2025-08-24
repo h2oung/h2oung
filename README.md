@@ -6,13 +6,13 @@
 
 <!-- Profile -->
 <h2 align="center">👩‍💻 Profile</h2>
-<div align="center">🔹 이화여대 컴퓨터공학과 23학번</div>
-<div align="center">🔹 KT 디지털인재 장학생</div>
+<p align="center">🔹 이화여대 컴퓨터공학과 23학번</p>
+<p align="center">🔹 KT 디지털인재 장학생</p>
 
 <!-- Activities -->
 <h2 align="center">📌 Activities</h2>
-<div align="center">🔹 이화여대 SW 창업 동아리 UNIS 4기</div>
-<div align="center">🔹 이화여대 소프트웨어봉사단 이소지기 11기</div>
+<p align="center">🔹 이화여대 SW 창업 동아리 UNIS 4기</p>
+<p align="center">🔹 이화여대 소프트웨어봉사단 이소지기 11기</p>
 
 <!-- DEV's log -->
 <h2 align="center">📝 DEV's log</h2>
