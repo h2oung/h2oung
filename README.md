@@ -46,6 +46,10 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;![SQLD](https://img.shields.io/badge/Certification-SQLD-2E8B57?style=flat-square)
 ![ADsP](https://img.shields.io/badge/Certification-ADsP-4682B4?style=flat-square)
 
+<!-- Activities -->
+<h4 align="center">📌 Activities</h4>
+<div align="center">• Ewha SW 창업 동아리 UNIS 4기</div>
+<div align="center">• Ewha 소프트웨어봉사단 이소지기 11기</div>
 </div>
 <!-- Contact 섹션 -->
 <h2 align="center">📬 Contact</h2>
