@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 
 <!-- DEV's log -->
+<div align="center">
 ## 📝 DEV's log
 
 [![Tistory Badge](https://img.shields.io/badge/Tistory-Blog-FF5A5F?style=flat-square&logo=tistory&logoColor=white)](https://wisekhy.tistory.com/)
 
-➡️ [나의 티스토리 블로그 바로가기](https://wisekhy.tistory.com/)
