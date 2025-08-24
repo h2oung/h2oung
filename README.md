@@ -47,3 +47,10 @@ Here are some ideas to get you started:
 ![ADsP](https://img.shields.io/badge/Certification-ADsP-4682B4?style=flat-square)
 
 </div>
+<!-- Contact 섹션 -->
+<h2 align="center">📬 Contact</h2>
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-hvoun__g-E4405F?style=flat-square&logo=instagram&logoColor=white)](https:/)
+
