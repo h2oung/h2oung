@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <!-- Profile 섹션 -->
 <h2 align="center">👩‍💻 Profile </h2>
 
-<div align="center">🔹 Ewha Womans Univ. CSE '23</div>
-<div align="center">🔹 KT Digital Talent Scholarship</div>
+<div align="center">🔹 이화여대 컴공 '23</div>
+<div align="center">🔹 KT 디지털 인재 장학생</div>
 
 <!-- Activities -->
 <h2 align="center">📌 Activities</h2>
