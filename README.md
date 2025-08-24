@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=#E8DDED&height=300&section=header&text=Hyunyoung&fontSize=90&animation=fadeIn&fontAlignY=38)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=E8DDED&height=300&section=header&text=Hyunyoung&fontSize=90&animation=fadeIn&fontAlignY=38)
