@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 <p align="center">💻 I'm interested in backend development and AI platforms</p>
 
 <!-- Profile 섹션 -->
-<h2 align="center">👩‍💻 Profile </h2>
+<h2 align="center">👩‍💻 Profile 👩‍💻  </h2>
 
 <div align="center">• Ewha Womans Univ. CSE '23</div>
 <div align="center">• KT Digital Talent Scholarship</div>
 
 
 <!-- DEV's log -->
-<h2 align="center">📝 DEV's log </h2>
+<h2 align="center">📝 DEV's log 📝</h2>
 
 <div align="center">
 
