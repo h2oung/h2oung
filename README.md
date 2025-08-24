@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <h2 align="center">👩‍💻 Profile </h2>
 
 <br>
-
 <p align="center">이화여대 컴퓨터공학과 23학번</p>
 <p align="center">KT 디지털인재 장학생</p>
 
