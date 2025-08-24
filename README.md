@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ![ADsP](https://img.shields.io/badge/Certification-ADsP-4682B4?style=flat-square)
 
 <!-- Activities -->
-<h4 align="center">📌 Activities</h4>
+<h2 align="center">📌 Activities</h2>
 <div align="center">• Ewha SW 창업 동아리 UNIS 4기</div>
 <div align="center">• Ewha 소프트웨어봉사단 이소지기 11기</div>
 </div>
