@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p align="center">KT 디지털인재 장학생</p>
 
 <!-- DEV's log -->
-<h2 align="center">👩‍💻 📝 DEV's log </h2>
+<h2 align="center">📝 DEV's log </h2>
 
 <div align="center">
 
