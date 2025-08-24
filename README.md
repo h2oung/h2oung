@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-hvoun__g-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hvoun_g)
+[![Instagram](https://img.shields.io/badge/Instagram-hvoun_g-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hvoun_g)
 
