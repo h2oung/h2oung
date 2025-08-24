@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 <!-- DEV's log -->
 <h2 align="center">👩‍💻 📝 DEV's log </h2>
 
+<div align="center">
+
 [![Tistory Badge](https://img.shields.io/badge/Tistory-Blog-FF5A5F?style=flat-square&logo=tistory&logoColor=white)](https://wisekhy.tistory.com/)
+
 
 </div>
