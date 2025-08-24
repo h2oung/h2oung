@@ -51,16 +51,16 @@
 <h2 align="center">📜 Certifications</h2>
 <div align="center">
 
-![SQLD](https://img.shields.io/badge/Certification-SQLD-2E8B57?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;![SQLD](https://img.shields.io/badge/Certification-SQLD-2E8B57?style=flat-square)
 ![ADsP](https://img.shields.io/badge/Certification-ADsP-4682B4?style=flat-square)
 
 </div>
 
 <!-- Contact -->
-<h2 align="center">📬 Contact</h2>
+<h2 align="center">&nbsp;&nbsp;📬 Contact</h2>
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-hvoun_g-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hvoun_g)
+&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-hvoun_g-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hvoun_g)
 [![Gmail](https://img.shields.io/badge/Email-wisekhy@ewhain.net-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wisekhy@ewhain.net)
 
 </div>
