@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 <p align="center">이화여대 컴퓨터공학과 23학번</p>
 <p align="center">KT 디지털인재 장학생</p>
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/h2oung)
+
+[![Tistory](https://img.shields.io/badge/Blog-Tistory-FF5A5F?style=flat-square&logo=tistory&logoColor=white)](https://wisekhy.tistory.com/)
