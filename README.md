@@ -38,7 +38,12 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Tistory Badge](https://img.shields.io/badge/Tistory-Blog-FF5A5F?style=flat-square&logo=tistory&logoColor=white)](https://wisekhy.tistory.com/)
 
 </div>
+<!-- Certifications 섹션 -->
+<h2 align="center">📜 Certifications</h2>
+
+<div align="center">
 
 ![SQLD](https://img.shields.io/badge/Certification-SQLD-2E8B57?style=flat-square)
 ![ADsP](https://img.shields.io/badge/Certification-ADsP-4682B4?style=flat-square)
 
+</div>
