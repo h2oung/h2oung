@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=h2oung%fontSize=90&animation=fadeIn&fontAlignY=38&desc=Ewha%20CSE%20김현영%20&descAlignY=51&descAlign=62 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=h2oung%fontSize=90&animation=fadeIn&fontAlignY=38&desc=Ewha%20CSE%20김현영&descAlignY=51&descAlign=62 
 
