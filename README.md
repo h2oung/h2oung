@@ -52,6 +52,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-hvoun_g-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hvoun_g) [![Gmail](https://img.shields.io/badge/Email-wisekhy@ewhain.net-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wisekhy@ewhain.net)
+&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-hvoun_g-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hvoun_g) [![Gmail](https://img.shields.io/badge/Email-wisekhy@ewhain.net-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wisekhy@ewhain.net)
 
 
