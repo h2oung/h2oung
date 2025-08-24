@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!-- Profile 섹션 -->
 <h2 align="center">👩‍💻 Profile </h2>
 
-<div align="center">🔹 이화여대 컴공 '23</div>
+<div align="center">🔹 이화여대 컴퓨터공학과 23학번</div>
 <div align="center">🔹 KT 디지털인재 장학생</div>
 
 <!-- Activities -->
