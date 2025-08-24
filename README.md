@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=E8DDED&height=300&section=header&text=Hyunyoung&fontSize=90&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=wave&color=E8DDED&height=300&section=header&text=Hyunyoung's%20GitHub&fontSize=70&animation=fadeIn&fontAlignY=38&desc=The%20best%20is%20yet%20to%20come&descAlignY=60&descAlign=50)
+
 
 <!-- Introduction -->
 <p align="center">👋 Hi, I'm @h2oung</p>
