@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **h2oung/h2oung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,5 +22,5 @@ Here are some ideas to get you started:
 
 <br>
 
-- 이화여대 컴퓨터공학과 23학번
-- KT 디지털인재 장학생
+<p align="center">이화여대 컴퓨터공학과 23학번</p>
+<p align="center">KT 디지털인재 장학생</p>
