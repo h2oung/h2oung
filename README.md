@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 </div>
 <!-- Contact 섹션 -->
-<h2 align="center">&nbsp;&nbsp;&nbsp;&nbsp;📬 Contact</h2>
+<h2 align="center">&nbsp;&nbsp;📬 Contact</h2>
 
 <div align="center">
 
