@@ -32,4 +32,9 @@ Here are some ideas to get you started:
 <p align="center">KT 디지털인재 장학생</p>
 
 
-[![Tistory](https://img.shields.io/badge/Blog-Tistory-FF5A5F?style=flat-square&logo=tistory&logoColor=white)](https://wisekhy.tistory.com/)
+<!-- DEV's log -->
+## 📝 DEV's log
+
+[![Tistory Badge](https://img.shields.io/badge/Tistory-Blog-FF5A5F?style=flat-square&logo=tistory&logoColor=white)](https://wisekhy.tistory.com/)
+
+➡️ [나의 티스토리 블로그 바로가기](https://wisekhy.tistory.com/)
