@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 <!-- Activities -->
 <h2 align="center">📌 Activities</h2>
-<div align="center">🔹 이화여대 SW 창업 동아리 UNIS 4기</div>
-<div align="center">🔹 이화여대 소프트웨어봉사단 이소지기 11기</div>
+<div align="center">&nbsp;&nbsp;🔹 이화여대 SW 창업 동아리 UNIS 4기</div>
+<div align="center">&nbsp;&nbsp;🔹 이화여대 소프트웨어봉사단 이소지기 11기</div>
 
 <!-- DEV's log -->
 <h2 align="center">📝 DEV's log</h2>
