@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=300&section=header&text=h2oung&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Ewha%20Womans%20Univ.%20%7C%20CSE%2023&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=300&section=header&text=h2oung&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Ewha%20Womans%20Univ.%20%7C%20CSE%2023&descAlignY=51&descAlign=45)
 
