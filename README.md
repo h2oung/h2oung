@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![SQLD](https://img.shields.io/badge/Certification-SQLD-2E8B57?style=flat-square)
+&nbsp;&nbsp;![SQLD](https://img.shields.io/badge/Certification-SQLD-2E8B57?style=flat-square)
 ![ADsP](https://img.shields.io/badge/Certification-ADsP-4682B4?style=flat-square)
 
 </div>
