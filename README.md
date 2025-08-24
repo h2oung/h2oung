@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=E8DDED&height=300&section=header&text=Hyunyoung&fontSize=90&animation=fadeIn&fontAlignY=38)
 
+<!-- Introduction -->
+<p align="center">👋 Hi, I'm @h2oung</p>
+<p align="center">💻 I'm interested in backend development and AI platforms</p>
 
 <!-- Career 섹션 -->
-<h2 align="center">👩‍💻 Career</h2>
+<h2 align="center">👩‍💻 Profile </h2>
 
 <br>
 
