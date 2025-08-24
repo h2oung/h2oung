@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Tistory Badge](https://img.shields.io/badge/Tistory-Blog-FF5A5F?style=flat-square&logo=tistory&logoColor=white)](https://wisekhy.tistory.com/)
+&nbsp;[![Tistory Badge](https://img.shields.io/badge/Tistory-Blog-FF5A5F?style=flat-square&logo=tistory&logoColor=white)](https://wisekhy.tistory.com/)
 
 </div>
