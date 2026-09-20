@@ -53,7 +53,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![SQLD](https://img.shields.io/badge/Certification-SQLD-2E8B57?style=flat-square)
 ![ADsP](https://img.shields.io/badge/Certification-ADsP-4682B4?style=flat-square)
-
+![정보처리기사](https://img.shields.io/badge/Certification-정보처리기사-9C86B8?style=flat-square)
 </div>
 
 <!-- Contact -->
